@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(201, 99, 167);
+}
+
+
+h1{
+    text-align: center;
+    
+}
+
+p{
+    font-size: 24px;
+}
+
+.heading{
+    color: purple;
+    font-size: 30px;
+}
+
+.p11{
+    color: blue;
+}
+
+.p12{
+    font-style:italic ;
+
+}
+
+.image1{
+    height: 200px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
